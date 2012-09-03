@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Kadai</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_min">MinActivity</string>
+	<string name="menu_top">TOP</string>
+	<string name="menu_beginner">初級</string>
+	<string name="menu_middle">中級</string>
+	<string name="menu_higher">上級</string>
+</resources>
